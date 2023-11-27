@@ -1,0 +1,1 @@
+Given two integer numbers, return their product only if the product is equal to or lower than 1000. Otherwise, return their sum. Given 1: number1 = twenty number2 = thirty Expected Output: The result is six hundred Given 2: number1 = forty number two = thirty Expected Output: The result seventy
